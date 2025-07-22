@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "TestCase" ADD COLUMN     "token" TEXT,
+ALTER COLUMN "time" DROP NOT NULL,
+ALTER COLUMN "memory" DROP NOT NULL;

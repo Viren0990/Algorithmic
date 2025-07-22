@@ -1,0 +1,8 @@
+{
+    "python": "def second_largest(arr):\n    return -1  # Replace this with your solution\n\nif __name__ == \"__main__\":\n    arr = list(map(int, input().split()))\n    print(second_largest(arr))",
+    
+    "javascript": "function secondLargest(arr) {\n    return -1; // Replace this with your solution\n}\n\nprocess.stdin.on('data', (data) => {\n    const arr = data.toString().trim().split(' ').map(Number);\n    console.log(secondLargest(arr));\n});",
+    
+    "cpp": "#include <iostream>\n#include <vector>\nusing namespace std;\n\nint secondLargest(vector<int>& arr) {\n    return -1; // Replace this with your solution\n}\n\nint main() {\n    int n, x;\n    vector<int> arr;\n    while (cin >> x) arr.push_back(x);\n    cout << secondLargest(arr) << endl;\n    return 0;\n}"
+  }
+  

@@ -1,0 +1,23 @@
+[
+    {
+      "input": "1 2 3 4 5",
+      "expectedOutput": "4"
+    },
+    {
+      "input": "10 20 20 8 9",
+      "expectedOutput": "10"
+    },
+    {
+      "input": "5 5 5 5",
+      "expectedOutput": "-1"
+    },
+    {
+      "input": "100 200 300 400 500",
+      "expectedOutput": "400"
+    },
+    {
+      "input": "9 7 2 5 8",
+      "expectedOutput": "8"
+    }
+  ]
+  
