@@ -4,7 +4,7 @@ Algorithmic is a coding practice platform that enables users to **sign up, log i
 
 Built for performance and scalability, Algorithmic uses modern full-stack technologies to deliver a smooth, responsive, and interactive experience for competitive programmers and learners.
 
----
+----
 
 ## 🚀 Features
 - **User Authentication** – Sign up, log in, and manage your profile
