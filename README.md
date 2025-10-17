@@ -1,4 +1,4 @@
-# 🧮 Algorithmic
+#  Algorithmic
 
 Algorithmic is a coding practice platform that enables users to **sign up, log in, browse programming challenges, and submit solutions**. It evaluates submissions in **real-time** using an integrated code execution engine (**Judge0**), providing instant feedback on correctness and efficiency.  
 
@@ -6,7 +6,7 @@ Built for performance and scalability, Algorithmic uses modern full-stack techno
 
 ----
 
-## 🚀 Features
+##  Features
 - **User Authentication** – Sign up, log in, and manage your profile
 - **Browse Challenges** – Explore a variety of programming problems
 - **Code Execution Engine** – Judge0 integration for real-time evaluation
@@ -24,7 +24,7 @@ Built for performance and scalability, Algorithmic uses modern full-stack techno
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ```bash
 # Clone the repository
